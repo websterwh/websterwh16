@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @websterwh16
-- 👀 I’m interested in Skript And JS
-- 🌱 I’m currently learning JS
-- 📫 How to reach me ωilliam#5384
+- 🌱 I’m currently learning Python
+My Discord is ωilliam#5384
