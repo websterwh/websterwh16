@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @websterwh16
-- 🌱 I’m currently learning Python
-- Im am 16
-- My Discord is ωilliam#5384
+im 16, i am learning python my discord is ωilliam#5384
